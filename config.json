@@ -13,7 +13,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "YK TRICKS INDIA",
-    "PREFIX": "+",
+    "PREFIX": "/",
     "OTHERBOT": [
         ""
     ],
@@ -26,7 +26,7 @@
         ""
     ],
     "ADMINBOT": [
-        "100036283209197",
+        "61585675055117",
         ""
     ],
     "OWNER": "AYUSH RAJPUT ",
